@@ -1,6 +1,6 @@
 module github.com/routerdam/Polyglotte
 
-go 1.23
+go 1.21
 
 require (
 	github.com/go-audio/audio v1.0.0 // indirect
